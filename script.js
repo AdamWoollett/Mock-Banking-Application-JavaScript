@@ -1,31 +1,5 @@
 //Import class from bankAccount.js
 import { BankAccount } from "./bankAccount.js";
-/*new BankAccount();*/
-
-//Backup class creation
-/*class BankAccount{
-    constructor(accountNumber, accountHolder, balance){
-        this.accountNumber = accountNumber;
-        this.accountHolder = accountHolder;
-        this.balance = balance;
-    }
-    //Deposit Money method as part of the class
-    deposit(){
-        console.log("Balance before deposit is: " + this.balance);
-        this.balance=this.balance+ 30;
-        console.log("Balance after deposit is: " + this.balance);
-    }
-    //Withdraw Money method as part of the class
-    withdraw(){
-        console.log("Balance before withdrawal is: " + this.balance);
-        this.balance=this.balance- 20;
-        console.log("Balance after withdrawal is: " + this.balance);
-    }
-    //Check balance method as part of the class
-    showBalance(){
-        console.log(this.balance);
-    }
-}*/
 
 //Creating object for John's Bank Account & Printing John's Account properties to console
 const accountOfJohn = new BankAccount("123456", "John", 500);
