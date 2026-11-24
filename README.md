@@ -12,9 +12,9 @@ A preview of what this project looks like when deployed can also be viewed on Ve
 
 ## Project Structure
 ```
-Mock-Banking-Application-JavaScript/<br>
-├─ README.md<br>
-├─ bankAccount.js<br>
-├─ index.html<br>
-└─ script.js<br>
+Mock-Banking-Application-JavaScript/
+├─ README.md
+├─ bankAccount.js
+├─ index.html
+└─ script.js
 ```
