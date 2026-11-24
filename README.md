@@ -11,8 +11,10 @@ A preview of what this project looks like when deployed can also be viewed on Ve
 - HTML5
 
 ## Project Structure
+```
 Mock-Banking-Application-JavaScript/<br>
 ├─ README.md<br>
 ├─ bankAccount.js<br>
 ├─ index.html<br>
 └─ script.js<br>
+```
