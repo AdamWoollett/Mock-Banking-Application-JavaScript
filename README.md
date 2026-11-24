@@ -14,7 +14,7 @@ A preview of what this project looks like when deployed can also be viewed on Ve
 ```
 Mock-Banking-Application-JavaScript/
 ├─ README.md
-├─ bankAccount.js
-├─ index.html
-└─ script.js
+├─ bankAccount.js                    # Script file that contains the BankAccount class and functions that directly involve handling money.
+├─ index.html                        # Landing page.
+└─ script.js                         # Main script that handles more general page function.
 ```
